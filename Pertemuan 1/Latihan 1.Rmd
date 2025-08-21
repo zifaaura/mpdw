@@ -1,0 +1,18 @@
+```{r}
+install.packages("forecast", repos = "https://cran.rstudio.com")
+install.packages("graphics")
+install.packages("TTR")
+install.packages("TSA")
+install.packages("aTSA")
+install.packages("lmtest")
+install.packages("MLmetrics")
+install.packages("car")
+install.packages("MASS")
+install.packages("dplyr")
+install.packages("tseries")
+install.packages("ggplot2")
+install.packages("nortest")
+install.packages("tsibble")
+```
+
+
